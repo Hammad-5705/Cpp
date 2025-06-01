@@ -33,9 +33,6 @@ else
 cout<<"Total gym usage fee: Rs. "<<fee;
 }
 
-
-
-
 return 0;
 
 }
